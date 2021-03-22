@@ -1,0 +1,15 @@
+#projects{
+    margin-top: 1000px;
+}
+@media screen and (max-width: 768px) {
+#projects{
+    margin-top:500px;
+}
+}
+#welcome-section{
+    height: 100vh;
+}
+#navbar{
+    position: fixed;
+    top: 0;
+}
